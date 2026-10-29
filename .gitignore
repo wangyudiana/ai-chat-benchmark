@@ -1,0 +1,10 @@
+# 个人数据：任务结果、设置（含 API Key）、产品配置
+data/
+# 各产品的登录状态，相当于账号，绝不能上传
+profiles/
+# 运行环境与缓存
+.venv/
+__pycache__/
+*.pyc
+*.tmp
+.DS_Store
